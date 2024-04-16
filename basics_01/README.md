@@ -7,3 +7,6 @@
 - `npm run dev` to launch server
 
 ## 📚 Lessons Learned
+
+- Create a project from scratch
+- Install the right dependencies (Vite)
