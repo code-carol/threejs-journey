@@ -9,4 +9,4 @@
 ## 📚 Lessons Learned
 
 - Create a project from scratch
-- Install the right dependencies (Vite)
+- Install the right dependencies (Vite and Three)

@@ -1,1 +1,1 @@
-console.log("JS is working!");
+import * as THREE from "three";
