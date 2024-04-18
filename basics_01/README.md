@@ -13,3 +13,7 @@
 - Add Basic Scene with (Scene, Object, Camera and Renderer).
 - Add a canvas
 - Learn about positioning the camera.
+
+## 👀 Demo
+
+<img src="../img/screenshot.png" width="300px">
