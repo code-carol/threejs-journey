@@ -10,3 +10,4 @@
 
 - Create a project from scratch
 - Install the right dependencies (Vite and Three)
+- Add Basic Scene with (Scene, Object, Camera and Renderer)
