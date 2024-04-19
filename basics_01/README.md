@@ -16,4 +16,4 @@
 
 ## 👀 Demo
 
-<img src="../img/screenshot.png" width="300px">
+<img src="./img/screenshot.png" width="300px">
