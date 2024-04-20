@@ -1,16 +1,21 @@
-# Three.js Journey
+## Transform Objects
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## ⚙️ Installation & Usage
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+- Clone or download the repo
+- `npm install` to install all dependencies
+- `npm run dev` to launch server
 
-# Run the local server at localhost:8080
-npm run dev
+## 📚 Lessons Learned
 
-# Build for production in the dist/ directory
-npm run build
-```
+- Learn about properties to transform objects (position, scale, rotation and quaternion).
+
+- Learn about axis (x-y-z).
+
+- Learn about Vector3 and useful methods.
+
+- Axes Helpers to visualise the position in space.
+
+-
+
+## 👀 Demo
