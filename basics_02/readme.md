@@ -16,6 +16,6 @@
 
 - Axes Helpers to visualise the position in space.
 
--
+- Learn about scale objects
 
 ## 👀 Demo
