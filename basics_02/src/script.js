@@ -31,9 +31,9 @@ scene.add(axesHelper);
 // // Distance with a new Vector3
 // console.log(mesh.position.distanceTo(new THREE.Vector3(0, 1, 2)));
 
-// // Normalise
-// mesh.position.normalize();
-// console.log(mesh.position.length());
+// Normalise
+mesh.position.normalize();
+console.log(mesh.position.length());
 
 /**
  * Sizes
