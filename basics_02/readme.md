@@ -19,3 +19,5 @@
 - Learn about scale objects
 
 ## 👀 Demo
+
+## 💻 Technologies
